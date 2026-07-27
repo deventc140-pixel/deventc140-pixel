@@ -2,6 +2,15 @@
 Hi there! 👋<br><br>I'm Mikhael Devent Chang, a Grade 11 Software and Game Development (PPLG) student from Indonesia. I'm passionate about web development and always excited to learn new technologies and build useful projects.<br><br>## About Me 👋<br><br>- 💻 I’m currently working on personal portfolio and school web projects.<br>- 🤝 I’m looking to collaborate on web development projects.<br>- 🙌 I’m looking for help with React, Laravel, and backend development.<br>- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, MySQL, and React.<br>- 💬 Ask me about web development, PHP, or JavaScript.<br>- ⚡ Fun fact: I enjoy creating modern websites and solving coding problems.
 
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deventc140-pixel/deventc140-pixel/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deventc140-pixel/deventc140-pixel/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deventc140-pixel/deventc140-pixel/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manzyy1990) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devent-t) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deventc140@gmail.com) 
 
