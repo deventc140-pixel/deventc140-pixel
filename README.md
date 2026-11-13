@@ -49,12 +49,12 @@ I'm **Mikhael Devent Chang**, a Grade 11 Software and Game Development (PPLG) st
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=deventc140-pixel&theme=vision-friendly-dark&show_icons=true&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=deventzy&theme=vision-friendly-dark&show_icons=true&hide_border=false)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=deventc140-pixel&theme=vision-friendly-dark&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=deventzy&theme=vision-friendly-dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deventc140-pixel&theme=vision-friendly-dark&layout=compact&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deventzy&theme=vision-friendly-dark&layout=compact&hide_border=false)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=deventc140-pixel&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=deventzy&color=blueviolet&style=for-the-badge)
